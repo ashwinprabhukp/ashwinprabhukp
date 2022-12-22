@@ -2,7 +2,7 @@
 
 Welcom to my profile. Below is a brief introo on what I am currently upto.
 
-- 🔭 I’m currently fasicanted about anything related to Machine learning, deep learning and AI
+- 🔭 Fasicanted about anything related to Machine learning, deep learning and AI
 - 🌱 I’m currently learning NLP 
 - 📫 reach me at ashwinprabhukp@gmail.com
 
