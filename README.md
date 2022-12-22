@@ -1,6 +1,6 @@
 ### Hello everyone, 
 
-Welcom to my profile. Below is a brief introo on what I am currently upto.
+Welcom to my profile. Below is a brief intro on what I am currently upto.
 
 - 🔭 Fasicanted about anything related to Machine learning, deep learning and AI
 - 🌱 I’m currently learning NLP 
