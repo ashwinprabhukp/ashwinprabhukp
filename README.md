@@ -13,4 +13,5 @@ My certifications:
 ![microsoft-certified-azure-data-scientist-associate](https://user-images.githubusercontent.com/35398605/209106747-998014c9-f9e0-4f23-b172-b3189e2219ae.png)
 
 Cheers,
+
 Ashwin
