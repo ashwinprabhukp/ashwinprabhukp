@@ -10,7 +10,7 @@ Welcom to my profile. Below is a brief intro on what I am currently upto.
 Data Science and Web Development professional with a Master’s degree in Informatics from the Technical University of Munich<br>and 6+ years of industry experience. Adept in utilizing Python, C#, and Javascript to develop innovative solutions on Microsoft<br>Azure Cloud. Proficient in Machine Learning and MLOps, with a deep understanding of libraries like Sklearn, Tensorflow, Keras,<br>and others. Skilled in using Numpy, Pandas, Matplotlib, Seaborn, DVC, mlflow and more to extract insights from data and<br>create actionable models. Passionate about using technology to solve real-world problems and drive business success.
 
 
-My certifications:
+#  🎖️ Certifications:
 
 ![microsoft-certified-azure-data-fundamentals](https://user-images.githubusercontent.com/35398605/209106727-be44d01c-d2a1-4b9c-a830-ae7c2f73a9a4.png)
 ![microsoft-certified-power-bi-data-analyst-associate](https://user-images.githubusercontent.com/35398605/209106739-1aa3421b-ac0d-480f-b6ae-4d11b6721add.png)
